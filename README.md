@@ -15,7 +15,7 @@ Download dataset from above mentioned kernel as it has heavy data files
     1. Article names and metadata
     2. Time series extraction
 3. Summary parameter extraction
-    1.Projects data overview
+    1. Projects data overview
     2. Basic time series parameters
     3. Overview visualisations
 4. Individual observations with extreme parameters
