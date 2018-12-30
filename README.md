@@ -18,13 +18,13 @@ Download dataset from above mentioned kernel as it has heavy data files
     1.Projects data overview
     2. Basic time series parameters
     3. Overview visualisations
-4 Individual observations with extreme parameters
+4. Individual observations with extreme parameters
     1. Large linear slope
     2. High standard deviations
     3. Large variability amplitudes
     4. High average views
-5 Short-term variability
-6 Forecast methods for selected examples
+5. Short-term variability
+6. Forecast methods for selected examples
     1. ARIMA / auto.arima
     2. Prophet - Section currently under maintenance
         1. Basic performance
